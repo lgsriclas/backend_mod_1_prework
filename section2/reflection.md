@@ -7,9 +7,10 @@
 ### If Statements
 
 1. What is a conditional statement? Give three examples.
-    - A conditional is like a fork in the road.  A conditional tells data where to go based on defined parameters.  
 
-            ```ruby
+    A conditional is like a fork in the road.  A conditional tells data where to go based on defined parameters.  
+
+          -  ```ruby
              dogs = 5
              if dogs >= 5
                 puts "That's too many dogs!"
@@ -84,9 +85,9 @@
 
 6. Other than an if-statement, can you think of any other ways we might want to use a conditional statement?
 
-    - We could also use unless statements.  These are executed when the given condition is false.  
+    We could also use unless statements.  These are executed when the given condition is false.  
 
-            ```ruby
+          - ```ruby
             chocolate = 5
             unless chocolate >= 5
                puts "That's not enough chocolate."
