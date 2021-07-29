@@ -16,9 +16,9 @@
              else
                 puts "That's the perfect number of dogs.
              end
-             ```
 
-             ```ruby
+
+
              guests = 15
              chairs = 14
              if guests > chairs
@@ -27,10 +27,10 @@
                 puts "That's more than enough chairs."
              else puts "That's the perfect number of chairs!"
              end
-             ```
 
 
-             ```ruby
+
+
              length_of_hike = 7
              has_boots = true
              if length_of_hike >= 10 and has_boots == true
@@ -86,14 +86,14 @@
 
     - We could also use unless statements.  These are executed when the given condition is false.  
 
-        ex:  ```ruby
-             chocolate = 5
-             unless chocolate >= 5
-                puts "That's not enough chocolate."
-             else
-                puts "That's plenty of chocolate!"
-             end
-             ```
+          - ```ruby
+            chocolate = 5
+            unless chocolate >= 5
+               puts "That's not enough chocolate."
+            else
+               puts "That's plenty of chocolate!"
+            end
+            ```
 
 
 ### Methods
