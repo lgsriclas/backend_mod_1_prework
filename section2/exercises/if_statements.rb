@@ -10,7 +10,6 @@
   # if it is snowy, print "coat"
   # if it is icy, print "yak traks"
 
-```ruby
   weather = 'snowy'
 
   if weather == 'sunny'
@@ -24,7 +23,7 @@
   else
     p "good to go!"
   end
-  ```
+
 
 # Experiment with manipulating the value held in variable 'weather'
 # to print something other than 'coat'
@@ -43,7 +42,7 @@
 # Experiment with manipulating the value held within num_quarters
 # to make sure both conditions can be achieved.
 
-```ruby
+
 num_quarters = 0
 
 if num_quarters >= 2
@@ -51,7 +50,7 @@ if num_quarters >= 2
 else
   puts "I don't have enough money for a gumball."
 end
-```
+
 
 
 #####################
@@ -68,7 +67,7 @@ end
 # Experiment with manipulating the value held within both variables
 # to make sure all above conditions output what you expect.
 
-```ruby
+
 cups_of_flour = 1
 has_sauce = true
 
@@ -81,4 +80,3 @@ elsif cups_of_flour >= 2 and has_sauce == false
 elsif cups_of_flour < 2 and has_sauce == false
   puts "I cannot make pizza."
 end
-```

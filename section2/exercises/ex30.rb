@@ -1,4 +1,4 @@
-```ruby
+
 # Declare and assign variables "people", "cars", and "trucks".
 people = 30
 cars = 40
@@ -35,4 +35,3 @@ if people > trucks
 else
   puts "Fine, let's stay home then."
 end
-```

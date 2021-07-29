@@ -1,4 +1,4 @@
-```ruby
+
 # Starts a method called cheese_and_crackers with arguments "cheese_count" and "boxes_of_crackers"
 def cheese_and_crackers(cheese_count, boxes_of_crackers)
 # Prints the cheese_count.
@@ -35,4 +35,3 @@ cheese_and_crackers(10 + 20, 5 + 6)
 puts "And we can combine the two, variables and math:"
 # Prints the method cheese_and_crackers with the cheese_count equal to 110 and the boxes_of_crackers equal to 1050)
 cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000)
-```

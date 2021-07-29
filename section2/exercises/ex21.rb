@@ -1,4 +1,4 @@
-```ruby
+
 def add(a, b)
   puts "ADDING #{a} + #{b}"
   return a + b
@@ -37,4 +37,3 @@ puts "That becomes: #{what}. Can you do it by hand?"
 
 study_drill_2 = age + height - weight * iq / 2
 puts study_drill_2
-```

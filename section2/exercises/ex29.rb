@@ -1,4 +1,4 @@
-```ruby
+
 people = 20
 cats = 30
 dogs = 15
@@ -32,4 +32,3 @@ end
  if people == dogs
    puts "People are dogs."
  end
- ```

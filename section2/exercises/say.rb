@@ -1,4 +1,4 @@
-```ruby
+
 puts "hello"
 puts "hi"
 puts "how are you"
@@ -41,4 +41,3 @@ def some_method
   a = 3
 end
 puts a
-```
