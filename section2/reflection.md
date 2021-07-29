@@ -9,7 +9,7 @@
 1. What is a conditional statement? Give three examples.
     - A conditional is like a fork in the road.  A conditional tells data where to go based on defined parameters.  
 
-        ex:  ```ruby
+            ```ruby
              dogs = 5
              if dogs >= 5
                 puts "That's too many dogs!"
