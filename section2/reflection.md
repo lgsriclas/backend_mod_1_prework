@@ -10,40 +10,40 @@
 
     A conditional is like a fork in the road.  A conditional tells data where to go based on defined parameters.  
 
-          -  ```ruby
-             dogs = 5
-             if dogs >= 5
-                puts "That's too many dogs!"
-             else
-                puts "That's the perfect number of dogs.
-             end
+   -  ```ruby
+      dogs = 5
+      if dogs >= 5
+        puts "That's too many dogs!"
+      else
+        puts "That's the perfect number of dogs.
+      end
 
 
 
-             guests = 15
-             chairs = 14
-             if guests > chairs
-                puts "That's not enough chairs."
-             elsif guests < chairs
-                puts "That's more than enough chairs."
-             else puts "That's the perfect number of chairs!"
-             end
+      guests = 15
+      chairs = 14
+      if guests > chairs
+        puts "That's not enough chairs."
+      elsif guests < chairs
+        puts "That's more than enough chairs."
+      else puts "That's the perfect number of chairs!"
+      end
 
 
 
 
-             length_of_hike = 7
-             has_boots = true
-             if length_of_hike >= 10 and has_boots == true
-                puts "You're ready for a long hike!"
-             elsif length_of_hike >= 10 and has_boots == false
+      length_of_hike = 7
+      has_boots = true
+      if length_of_hike >= 10 and has_boots == true
+        puts "You're ready for a long hike!"
+      elsif length_of_hike >= 10 and has_boots == false
                 puts "You're not ready for a long hike."
-             elsif length_of_hike < 10 and has_boots == true
-                puts "You're not ready for a long hike."
-             elsif length_of_hike < 10 and has_boots == false
-                puts "You're not ready for a long hike."
-             end
-             ```
+      elsif length_of_hike < 10 and has_boots == true
+        puts "You're not ready for a long hike."
+      elsif length_of_hike < 10 and has_boots == false
+        puts "You're not ready for a long hike."
+      end
+      ```
 
 
 
@@ -87,14 +87,14 @@
 
     We could also use unless statements.  These are executed when the given condition is false.  
 
-          - ```ruby
-            chocolate = 5
-            unless chocolate >= 5
-               puts "That's not enough chocolate."
-            else
+    - ```ruby
+      chocolate = 5
+      unless chocolate >= 5
+         puts "That's not enough chocolate."
+      else
                puts "That's plenty of chocolate!"
-            end
-            ```
+      end
+      ```
 
 
 ### Methods
