@@ -14,7 +14,7 @@
 
 4. In the space below, create a Hash stored to a variable named `pet_store`.  This hash should hold an inventory of items and the number of that item that you might find at a pet store.
 
-  - ```
+```ruby
   pet_store = {
     dog_bones: 100,
     cat_toys: 75,
@@ -26,17 +26,17 @@
 
 5. Given the following `states = {"CO" => "Colorado", "IA" => "Iowa", "OK" => "Oklahoma"}`, how would you access the value `"Iowa"`?
 
-  - ```
+```ruby
   states = {"CO" => "Colorado", "IA" => "Iowa", "OK" => "Oklahoma"}
   puts states["IA"]
-  ```
+```
 
 6. With the same hash above, how would we get all the keys?  How about all the values?
 
-  - ```
+```ruby
   puts states.keys
   puts states.values
-  ```
+```
 
 
 7. What is another example of when we might use a hash?  In your example, why is a hash better than an array?
